@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+私は大阪に住む大学院１年生です。
+データサイエンス、機械学習に興味があります。
+
+研究内容は教育工学（教育×ソフトウェア）です。
+
+
+
+## 取得資格（取得順）
+ITパスポート
+TOEIC（735点）
+基本情報技術者試験
+G検定
+Pythonエンジニア認定基礎試験
+Pythonエンジニア認定データ分析試験
+データサイエンティスト検定 リテラシーレベル
+FUJITSU Certified Professional AI
+応用情報技術者試験
+E資格
+統計検定データサイエンス発展
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minegrammer
 )](https://github.com/anuraghazra/github-readme-stats)
 
