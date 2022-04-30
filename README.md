@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minegrammer
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **minegrammer/minegrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
