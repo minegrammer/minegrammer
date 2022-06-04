@@ -10,6 +10,45 @@
 Githubでは私の作成したアプリケーションや、機械学習モデルを載せていきたいと思います！  
 趣味はNBA観戦なので、スポーツのデータを分析することも考えています。
 
+##　各リポジトリの詳細
+各リポジトリではセキュリティの観点からコードのみを乗せています。
+
+### Android App　
+
+- Expense-Tracking-App
+Flutterを用いた、家計簿アプリです。
+「Screenshot of operation screen」ファイルに操作画面のスクリーンショットがあります。
+このアプリでは購入した品目と値段を記録し、可視化します。
+また、記録の削除・編集もできます。
+記録時に品目と値段のどちらかが書けている場合は、エラーメッセージを出力し、記録できないようになっています。
+
+- Action-Recording-App
+現在開発中のAndroidアプリで、Flutterを用いています。
+使用者の行動の記録、蓄積、可視化を目的としています。
+特徴は、記録をデータベースではなくGoogleログインによって、使用者個人のspreadsheetに記録することで個人情報の保護に努めているところです。
+また、spreadsheetのIDをデバイス内のアプリ直下のファイルに保存して、継続して同じsheetに保存するようにしています。
+
+
+### Web App　
+
+- People-counting-system
+Flaskで作成したWEBアプリで、タッチにより人数をカウントします。
+コロナ禍において、施設内にいる人数を一目で把握することを目的としています。
+「Screenshot of operation screen」ファイルに操作画面のスクリーンショットがあります。
+
+- Attendance-management-system
+私が初めて作成したWEBアプリで、Flaskを用いています。
+コロナ禍において、研究室の入退室を記録するために作成しました。
+データベースはAWSのDynamoDBを用いています。
+
+### Data science
+
+
+
+
+
+
+
 ## 経験
 - python
 
@@ -37,28 +76,3 @@ Flutter、Androidアプリケーション
 - 統計検定データサイエンス発展
 
 
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**minegrammer/minegrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
