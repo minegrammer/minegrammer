@@ -10,12 +10,11 @@
 Githubでは私の作成したアプリケーションや、機械学習を用いたプロジェクトのコードを載せています！  
 趣味はNBA観戦なので、スポーツのデータを分析することも考えています。
 
-## 各リポジトリの詳細
 各リポジトリではセキュリティの観点からコードのみを乗せています。
 
-### **Android App**　
+## Android App
 
-- **Expense-Tracking-App**  
+- **Expense-Tracking-App**  :money_with_wings:
    
 Flutterを用いた、家計簿アプリです。  
 「Screenshot of operation screen」ファイルに操作画面のスクリーンショットがあります。  
@@ -23,7 +22,7 @@ Flutterを用いた、家計簿アプリです。
 また、記録の削除・編集もできます。  
 記録時に品目と値段のどちらかが欠けている場合は、エラーメッセージを出力し、記録できないようになっています。  
 
-- **Action-Recording-App** 
+- **Action-Recording-App**  :memo:
    
 現在開発中のAndroidアプリで、Flutterを用いています。  
 使用者の行動の記録、蓄積、可視化を目的としています。  
@@ -31,21 +30,21 @@ Flutterを用いた、家計簿アプリです。
 また、spreadsheetのIDをデバイス内のアプリ直下のファイルに保存して、継続して同じsheetに保存するようにしています。  
 
 
-### **Web App**　
+## Web App  
 
-- **People-counting-system**  
+- **People-counting-system**  :two_men_holding_hands:
   
 Flaskで作成したWEBアプリで、タッチにより人数をカウントします。  
 コロナ禍において、施設内にいる人数を一目で把握することを目的としています。  
 「Screenshot of operation screen」ファイルに操作画面のスクリーンショットがあります。  
 
-- **Attendance-management-system**  
+- **Attendance-management-system**  :chart_with_upwards_trend:
   
 私が初めて作成したWEBアプリで、Flaskを用いています。  
 コロナ禍において、研究室の入退室を記録するために作成しました。  
 データベースはAWSのDynamoDBを用いています。  
 
-### **Data science**
+## Data science
 
 
 
